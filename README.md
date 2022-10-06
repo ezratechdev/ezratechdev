@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Ezra
+- NODE JS DEVELOPER
+- Rustacian
+- I’m on Twitter [@ezrakeeps](https://twitter.com/ezrakeeps)
+- My webfrolio [ezrakeeps.com](http://ezrakeeps.com)
 
-- 🔭 I’m currently working on a company app
-- 🌱 I’m currently improving on my node js skills
-- 👯 I’m looking to collaborate on open source node js projects
-- 💬 Ask me about node js , react , react native , rust , typescript
-- 📫 How to reach me: Mail : 254gtgt@gmail.com || ezrame254@gmail.com
-- 😄 Pronouns: him/he
-- ⚡ Fun fact: Javascript classes are functions on steroids with a dash of prototypes
+[![Ezra's Github Stats](https://github-readme-stats.vercel.app/api?username=ezratechdev&count_private=true&show_icons=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)         
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezratechdev&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
