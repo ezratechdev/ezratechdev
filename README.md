@@ -7,7 +7,7 @@ Hey there! I am Ezra Kipyegon. A computer scientist from Kenya.
 - NODE JS DEVELOPER
 - Rustacian
 - I’m on Twitter [@ezrakeeps](https://twitter.com/ezrakeeps)
-- My webfrolio [ezrakeeps.com](http://ezrakeeps.com)
+- My webfolio [ezrakeeps.com](http://ezrakeeps.com)
 
 ## Skills
 ![Overall performance](https://github-readme-stats.vercel.app/api?username=ezratechdev&count_private=true)
