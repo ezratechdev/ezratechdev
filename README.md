@@ -12,7 +12,7 @@ Hey there! I am Ezra Kipyegon. A computer scientist from Kenya.
 ## Skills
 ![Overall performance](https://github-readme-stats.vercel.app/api?username=ezratechdev&count_private=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=ezratechdev)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezratechdev&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
   - Familiar with the following databases/protocols (have used in many projects before):
 
