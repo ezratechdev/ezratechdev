@@ -3,7 +3,7 @@ Hey there! I am Ezra Kipyegon. A computer scientist from Kenya.
 
 - I am majorly a backend developer and i can center a div.
 
-- I use the linux for my day to day activities : Pop Os.
+- I use the linux for my day to day activities : Fedora.
 - NODE JS DEVELOPER
 - Rustacian
 - I’m on Twitter [@ezrakeeps](https://twitter.com/ezrakeeps)
