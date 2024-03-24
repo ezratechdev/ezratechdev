@@ -1,9 +1,7 @@
 ### Hi there 👋 I'm Ezra
 Hey there! I am Ezra Kipyegon. A computer scientist from Kenya.
 
-- I use Fedora Linux for my day to day activities.
 - Software Developer
-- I’m on Twitter [@ezrakeeps](https://twitter.com/ezrakeeps)
 
 ## Skills
 ![Overall performance](https://github-readme-stats.vercel.app/api?username=ezratechdev&count_private=true)
