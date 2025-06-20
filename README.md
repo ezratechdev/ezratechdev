@@ -1,2 +1,2 @@
 ### Hi there 👋 I'm Ezra
-Hey there! I am Ezra Kipyegon. A computer scientist from Kenya.
+~ Working on technology that is beneficial for tomorrow
